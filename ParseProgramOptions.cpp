@@ -1,3 +1,6 @@
+// Copyright (C) 2022, Antoine Basset
+// SPDX-License-Identifier: LGPL-3.0-or-later
+
 #include "ProgramOptions.h"
 
 int main(int argc, const char* const argv[]) {

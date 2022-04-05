@@ -1,3 +1,6 @@
+// Copyright (C) 2022, Antoine Basset
+// SPDX-License-Identifier: LGPL-3.0-or-later
+
 #define BOOST_TEST_MODULE "ProgramOptionsTest"
 #include <boost/test/unit_test.hpp>
 
